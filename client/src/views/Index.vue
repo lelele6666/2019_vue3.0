@@ -1,4 +1,5 @@
 <template>
+    <!-- 首页 -->
     <div id='index' class="index">
         <Header/>
     </div>
